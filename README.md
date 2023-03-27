@@ -14,7 +14,7 @@
 
   :bear: **About Me** :bear:
 
-  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joljol0108@gmail.com)](joljol0108@gmail.com)
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joljol0108@gmail.com)](mailto:joljol0108@gmail.com)
     [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hinh_999/)](https://www.instagram.com/hinh_999/)
     [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@joljolee)](https://velog.io/@joljolee)<br/><br/>
   
