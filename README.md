@@ -1,6 +1,6 @@
 <div align="center">
   
-  ### **Hi there, I'm SINAE LEE👋**
+  ## **Hi there, I'm SINAE LEE👋**
   #### 🌱 I’m currently learning...
   **Bioinformatics / Data Analysis / Machine Learning / Deeplearning**<br/><br/>
 
