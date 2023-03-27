@@ -1,6 +1,7 @@
 <div align="center">
   
   ## **Hi there, I'm SINAE LEE👋**
+  ![img](https://mblogthumb-phinf.pstatic.net/MjAxNzAyMDlfNDQg/MDAxNDg2NTY5MzUyNTcy.n7gQ-DiVIKUshNqrTs8M7QWIgV0sT-ekI8c_4Ooi7L4g.Ir975UTmTHdekzNDVsxpDsDDIsYOASlZ8XtCgUZ5axEg.GIF.doghter4our/IMG_3249.GIF?type=w800)
   #### 🌱 I’m currently learning...
   **Bioinformatics / Data Analysis / Machine Learning / Deeplearning**<br/><br/>
 
