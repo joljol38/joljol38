@@ -20,6 +20,13 @@
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joljol38&show_icons=true&theme=vue)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joljol38&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
+  
+  :penguin: BOJ Algorithm :penguin:
+
+  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=joljol0108)](https://solved.ac/joljol0108/)<br/><br/>  
+  
+  
   
 
 <!--   🐱 About Me
