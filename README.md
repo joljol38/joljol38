@@ -20,7 +20,7 @@
     [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@joljolee)](https://velog.io/@joljolee)<br/><br/>
   
   
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joljol38&show_icons=true&theme=vue)
+  ![joljol38's GitHub stats](https://github-readme-stats.vercel.app/api?username=joljol38)()
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joljol38&layout=compact&theme=vue&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br/><br/>
   
   :penguin: BOJ Algorithm :penguin:
