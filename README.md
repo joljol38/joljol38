@@ -21,7 +21,7 @@
   
   
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joljol38&theme=vue)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joljol38&langs_count=8&layout=compact&theme=vue)]()<br/><br/>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joljol38&langs_count=8&layout=compact&theme=vue)<br/><br/>
   
   :penguin: BOJ Algorithm :penguin:
 
