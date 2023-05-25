@@ -2,7 +2,7 @@
   
   ## **Hi there, I'm SINAE LEE👋**
   ![img](https://mblogthumb-phinf.pstatic.net/MjAxNzAyMDlfNDQg/MDAxNDg2NTY5MzUyNTcy.n7gQ-DiVIKUshNqrTs8M7QWIgV0sT-ekI8c_4Ooi7L4g.Ir975UTmTHdekzNDVsxpDsDDIsYOASlZ8XtCgUZ5axEg.GIF.doghter4our/IMG_3249.GIF?type=w800)
-  ### 🌱 I’m currently learning...
+  ### 🌱 I’m currently learning...🌱
   **Bioinformatics / Data Analysis / Machine Learning / Deeplearning**<br/><br/>
 
   :tiger: **Skills** :tiger:
@@ -17,11 +17,13 @@
 
   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joljol0108@gmail.com)](mailto:joljol0108@gmail.com)
     [![Instagram Badge](https://img.shields.io/badge/instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hinh_999/)](https://www.instagram.com/hinh_999/)
-    [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@joljolee)](https://velog.io/@joljolee)<br/><br/>
+    [![Velog Badge](https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white&link=https://velog.io/@joljolee)](https://velog.io/@joljolee)<br/><br/><br/><br/>
   
-  
-[![joljol38's GitHub stats](https://github-readme-stats.vercel.app/api?username=joljol38&count_private=true&include_all_commits=true&show_icons=true&hide=issues&theme=vue)]()
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joljol38&hide=html&langs_count=10&layout=compact&theme=vue)]()<br/><br/>
+
+![joljol38's GitHub stats](https://github-readme-stats.vercel.app/api?username=joljol38&show_icons=true&theme=transparent)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joljol38&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
+
+<br/><br/>
   
   :penguin: BOJ Algorithm :penguin:
 
